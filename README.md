@@ -1,4 +1,4 @@
-# HTML5 Canvas 🎨🖌
+# HTML5 Canvas
 
 This is a single page web app that let's the user draw things in the browser
 
